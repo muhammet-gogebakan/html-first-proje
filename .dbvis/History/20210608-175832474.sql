@@ -1,0 +1,2 @@
+
+select sumnüfus from sehirler

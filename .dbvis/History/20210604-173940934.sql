@@ -1,0 +1,1 @@
+select * from kullanicilar where dogum<(CURDATE()-INTERVAL 40 YEAR and dogum>19690101

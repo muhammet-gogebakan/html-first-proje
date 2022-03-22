@@ -1,0 +1,1 @@
+SELECT * FROM sehirler WHERE ulke_isim = 'Fransa' WHERE sehir_isim = 'Paris'

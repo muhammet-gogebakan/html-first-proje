@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Tue Jun 08 11:07:51 TRT 2021
+file.comment=
+last.database_type=MySQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=
+last.sql_preview=select ulus, count(*) from kullanicilar group by u
+exec.catalog=sql11416994
+last.affected_row_count=3
+exec.connection=0
+file.encoding=Cp1254
+last.execution_count=1
+last.elapsed_time=0.418
+last.execution_time=1623139671172

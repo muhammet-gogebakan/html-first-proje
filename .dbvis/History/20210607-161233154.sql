@@ -1,0 +1,1 @@
+select * from kullanicilar where sehir like 'I%' or sehir regexp 'e$'

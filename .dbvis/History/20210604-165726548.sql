@@ -1,0 +1,1 @@
+select * from kullanicilar where dogum<19850101 and dogum>19690101

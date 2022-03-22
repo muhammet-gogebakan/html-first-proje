@@ -1,0 +1,1 @@
+select k1.sehir,coalesce(s1.sehir,0) from kullanicilar k1 right join sehirler s1 on k1.sehir = s1.sehir

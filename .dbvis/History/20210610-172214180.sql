@@ -1,0 +1,2 @@
+
+ALTER TABLE takimlar ADD COLUMN yas INT;

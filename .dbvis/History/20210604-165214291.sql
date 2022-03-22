@@ -1,0 +1,1 @@
+select * from kullanicilar where ulus IN ('Türkiye', 'Almanya')

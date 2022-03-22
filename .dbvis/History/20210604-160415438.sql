@@ -1,0 +1,1 @@
+SELECT ulke_isim FROM sehirler WHERE sehir_isim LIKE 'B%'

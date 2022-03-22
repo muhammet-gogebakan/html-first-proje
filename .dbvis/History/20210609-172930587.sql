@@ -1,0 +1,1 @@
+select sehir, max(nüfus) from sehirler

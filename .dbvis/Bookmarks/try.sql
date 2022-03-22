@@ -1,0 +1,1 @@
+create table ülkeler (ID ÝNT, isim varchar (255))

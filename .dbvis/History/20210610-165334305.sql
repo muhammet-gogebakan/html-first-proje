@@ -1,0 +1,2 @@
+
+ALTER TABLE takimlar DROP COLUMN stad

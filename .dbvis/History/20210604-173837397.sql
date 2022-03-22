@@ -1,0 +1,1 @@
+select * from kullanicilar where dogum<CURDATE() and dogum>19800101

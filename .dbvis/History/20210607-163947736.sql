@@ -1,0 +1,1 @@
+create table sehirler (sehir varchar(255), nüfus int, merkez varchar(255));

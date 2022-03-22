@@ -1,0 +1,1 @@
+SELECT * FROM sehirler WHERE sehir_isim LIKE '%on%'

@@ -1,0 +1,2 @@
+
+ALTER TABLE teams ADD COLUMN yas INT;

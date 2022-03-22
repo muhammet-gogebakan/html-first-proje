@@ -1,0 +1,1 @@
+insert into kullanicilar values ('19800602', 'Martin', 'Lethert', 'Münih', 'Almanya')

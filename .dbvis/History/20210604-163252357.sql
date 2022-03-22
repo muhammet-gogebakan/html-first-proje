@@ -1,0 +1,1 @@
+Create Table kullanicilar (dogum DATE, isim varchar(255), soyisim varchar(255), sehir varchar(255), ulus varchar(255));

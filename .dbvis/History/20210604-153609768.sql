@@ -1,0 +1,1 @@
+SELECT sehir_isim, ulke_isim FROM sehirler

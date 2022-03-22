@@ -1,0 +1,1 @@
+C:\Users\mgogebakan.SOFTWARE_ANALYS\.dbvis\Bookmarks\try.sql

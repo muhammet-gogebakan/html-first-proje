@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Tue Jun 08 14:42:16 TRT 2021
+file.comment=
+last.database_type=MySQL
+last.execution_success_count=0
+last.execution_error_count=1
+exec.schema=
+last.sql_preview=SELECT YEAR FROM dogum from kullanicilar
+exec.catalog=sql11416994
+last.affected_row_count=0
+exec.connection=0
+file.encoding=Cp1254
+last.execution_count=1
+last.elapsed_time=0.851
+last.execution_time=1623152536106

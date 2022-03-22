@@ -1,0 +1,1 @@
+INSERT INTO sehirler (1, 'Fransa', 'Paris') 

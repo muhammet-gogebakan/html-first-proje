@@ -1,0 +1,1 @@
+SELECT sehir_isim FROM sehirler WHERE ulke_isim = 'Fransa';

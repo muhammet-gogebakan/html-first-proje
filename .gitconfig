@@ -1,0 +1,8 @@
+[user]
+	email = 100711396+muhammet-gogebakan@users.noreply.github.com
+	name = muhammet-gogebakan
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f

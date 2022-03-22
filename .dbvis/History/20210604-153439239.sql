@@ -1,0 +1,1 @@
+SELECT * FROM sehir_isim WHERE ulke_isim = 'Fransa';

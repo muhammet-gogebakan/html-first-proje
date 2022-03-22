@@ -1,0 +1,1 @@
+select * from kullanicilar k1 left join sehirler s1 on s1.sehir=k1.sehir

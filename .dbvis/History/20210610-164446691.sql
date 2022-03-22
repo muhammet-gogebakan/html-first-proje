@@ -1,0 +1,1 @@
+ALTER TABLE takimlar ADD COLUMN stad VARCHAR (255)

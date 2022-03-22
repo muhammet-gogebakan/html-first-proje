@@ -1,0 +1,1 @@
+SELECT DISTINCT(ulke_isim) FROM ulkeler

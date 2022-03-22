@@ -1,0 +1,1 @@
+select * from kullanicilar where isim like '^M[a-z]n$'

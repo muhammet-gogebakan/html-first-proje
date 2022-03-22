@@ -1,0 +1,2 @@
+
+UPDATE teams SET yas = (EXTRACT(YEAR FROM CURDATE())-EXTRACT(YEAR FROM takim_kurulus));

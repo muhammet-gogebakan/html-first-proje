@@ -1,0 +1,1 @@
+select * from kullanicilar where isim regexp '^M[a-z]*n$'

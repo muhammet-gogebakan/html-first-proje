@@ -1,0 +1,1 @@
+INSERT INTO sehirler VALUES (1, 'Ispanya', 'Barcelona');

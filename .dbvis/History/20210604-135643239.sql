@@ -1,0 +1,1 @@
+INSERT INTO ulkeler VALUES (3, 'Türkiye');

@@ -1,0 +1,1 @@
+CREATE TABLE sehirler (ID int, ulke_isim varchar(255), sehir_isim varchar(255));

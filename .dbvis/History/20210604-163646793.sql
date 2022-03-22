@@ -1,0 +1,1 @@
+insert into kullanicilar values ('19870101', 'Mesut', 'Gün', 'Istanbul', 'Türkiye')

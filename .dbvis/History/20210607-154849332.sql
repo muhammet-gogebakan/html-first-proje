@@ -1,0 +1,1 @@
+select * from kullanicilar where sehir regexp '[a-b]*'

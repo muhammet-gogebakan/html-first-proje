@@ -1,0 +1,1 @@
+DELETE FROM sehirler sehir_isim='Ýstanbul';

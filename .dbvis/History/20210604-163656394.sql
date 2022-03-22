@@ -1,0 +1,1 @@
+insert into kullanicilar values ('19700711', 'Francois', 'Allemande', 'Sorbonne', 'Fransa')
